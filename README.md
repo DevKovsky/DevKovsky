@@ -45,6 +45,6 @@
 
 ---
 
-> 꾸준히 개선하는 개발자.  
-> “어제보다 나은 코드를 쓴다”가 목표입니다.
+> 
+> "Any fool can write code that a computer can understand.Good Devs wrtie code that humans can understand" -Martin Fowler
 
