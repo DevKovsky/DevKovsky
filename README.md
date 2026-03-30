@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hongyeol Choi 👋</h1>
+<h1 align="center">Hi, I'm Senior Dev Kovsky 👋</h1>
 
 <p align="center">
   <b>Backend Developer</b><br/>
