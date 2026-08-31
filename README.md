@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 🎮 Iowa State University Statistics and Computer Science 
 - 🌱 Curr Learning: AI-layer,Cloud, DevOps, and system design  
-- 💼 
+- 💼 Samsung IT/System TL Co-op 
 
 ---
 
